@@ -1,1 +1,1 @@
-Nowa funkcjonalność projektu
+To jest funkcja feature-1.
